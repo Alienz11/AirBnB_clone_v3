@@ -168,10 +168,9 @@ No known bugs at this time.
 ## Authors
 
 + Alexa Orrico - [GitHub](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
-+ Bezaleel Olakunori - [GitHub](https://github.com/B3zaleel) / [Twitter](https://twitter.com/bezxx_chihuahua)
++ Kenechukwu Nsofor - [GitHub](https://github.com/Alienz11)
 + Jennifer Huang - [GitHub](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 + Joann Vuong
-+ Kenechukwu Nsofor - [GitHub](https://github.com/Alienz11)
 + Stacey Nakanwagi - [GitHub](https://github.com/)
 
 ## License
